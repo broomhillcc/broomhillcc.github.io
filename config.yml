@@ -1,0 +1,102 @@
+baseURL: "https://broomhillcc.org.uk/" 
+title: Broomhill Community Council
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: About Us
+          url: /aboutus/
+          weight: 1
+        - name: Meetings
+          url: /meetings/
+          weight: 2
+        - name: Heritage Trail
+          url: /heritage/
+          weight: 3
+        - name: News
+          url: /news/ 
+          weight: 4
+        - name: RPZ
+          url: /rpz/  
+
+params:
+    description: "We are a residents' forum for Broomhill area of Glasgow"
+    author: Broomhill Community Council
+    googleAnalyticsID: "G-BC0MHV1814"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: false
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Broomhill Community Council
+          subtitle: "We are a residents' forum for the Broomhill area of Glasgow <p>&nbsp;<p> We are consulted officially by Glasgow City Council on planning and licensing applications and we are the residents' representatives on outside bodies/committees"
+          imageUrl: /bcc.png
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Broomhill Community Council
+          buttons:
+            - name: About Us
+              url: /aboutus/
+            - name: Meetings
+              url: /meetings/
+            - name: Heritage Trail
+              url: /heritage/
+            - name: RPZ & Liveable Neighbourhoods
+              url: /rpz/
+            - name: Policies
+              url: /policies/              
+            - name: Keywords
+              url: /tags/
+
+    socialIcons:
+        - name: facebook
+          url: https://www.facebook.com/Broomhillcc/
+        - name: Email
+          url: mailto:broomhillcc01@gmail.com
+        
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Broomhill Community Council"
+      icon: /favicon.ico
+      iconHeight: 16
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

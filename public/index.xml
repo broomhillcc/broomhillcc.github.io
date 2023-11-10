@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Broomhill Community Council</title>
+    <link>https://broomhillcc.org.uk/</link>
+    <description>Recent content on Broomhill Community Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>October Broomhill Community Council AGM and meeting</title>
+      <link>https://broomhillcc.org.uk/october23/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/october23/</guid>
+      <description>The 2023 AGM was a meeting where the community council was re-elected.</description>
+    </item>
+    
+    <item>
+      <title>September Broomhill Community Council  meeting</title>
+      <link>https://broomhillcc.org.uk/september23/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/september23/</guid>
+      <description>The September meeting was abandoned as it was inquorate.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://broomhillcc.org.uk/privacy/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/privacy/</guid>
+      <description>This is BCC&amp;#39;s Privacy Policy</description>
+    </item>
+    
+    <item>
+      <title>BCC Constitution</title>
+      <link>https://broomhillcc.org.uk/constitution/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/constitution/</guid>
+      <description>Here you can read our constitution</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://broomhillcc.org.uk/aboutus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/aboutus/</guid>
+      <description>About Broomhill Community Council.</description>
+    </item>
+    
+    <item>
+      <title>November 2023 Broomhill Community Council meeting</title>
+      <link>https://broomhillcc.org.uk/november23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/november23/</guid>
+      <description>The November meeting was held 08/11 at Broomhill Primary School.</description>
+    </item>
+    
+  </channel>
+</rss>
