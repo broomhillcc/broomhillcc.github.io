@@ -1,4 +1,4 @@
 ---
 title: "Meetings: Agendas and Minutes"
-description: "Here you will find the agendas of our meetings and their respective minutes"
+description: "BCC meets on the second Wednesday of the month at Broomhill Primary School. We do not meet in January, July and August. Our AGM is in October"
 ---

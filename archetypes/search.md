@@ -1,5 +1,5 @@
 ---
 title: "Search"
 layout: "search"
-placeholder: "Search pascalmichaillat.org"
+placeholder: "Search youkeywordhere"
 ---
