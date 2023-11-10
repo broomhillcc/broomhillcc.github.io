@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RPZ and Liveable Neighbourhoods on Broomhill Community Council</title>
+    <link>https://broomhillcc.org.uk/rpz/</link>
+    <description>Recent content in RPZ and Liveable Neighbourhoods on Broomhill Community Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/rpz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pre-RPZ Parking Survey Analysis</title>
+      <link>https://broomhillcc.org.uk/nov23-rpzinfo/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/nov23-rpzinfo/</guid>
+      <description>A restricted parking zone will be introduced by Glasgow City Council in 2024/25 read for our analysis of the latest parking survey</description>
+    </item>
+    
+    <item>
+      <title>Active Travel and Bus Proposals</title>
+      <link>https://broomhillcc.org.uk/apr22-cyclesub/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/apr22-cyclesub/</guid>
+      <description>In April 2022 community council made a submission with proposals to NRS about overhauling the cycle path on Crow road. In Summer 2023 we had a site visit with Council officers about improving cycle lanes and bus boarders.</description>
+    </item>
+    
+    <item>
+      <title>Broomhill Community Council Proposals to Glasgow City Council on Roads ahead of the introduction of RPZ</title>
+      <link>https://broomhillcc.org.uk/apr22-rpzsub/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/apr22-rpzsub/</guid>
+      <description>In April 2022 the community council made a submission with proposals to Glasgow city council about how our neighbourhood could be reshaped during the RPZ road layout redesign.</description>
+    </item>
+    
+    <item>
+      <title>Proposals for Junction at Crow Rd and Marlborough Av</title>
+      <link>https://broomhillcc.org.uk/apr22-crossing/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/apr22-crossing/</guid>
+      <description>In April 2022 the community council made a Submission to Glagow City Council regarding Junction of Marlborough Avenue and Crow Rd</description>
+    </item>
+    
+  </channel>
+</rss>

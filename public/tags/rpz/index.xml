@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rpz on Broomhill Community Council</title>
+    <link>https://broomhillcc.org.uk/tags/rpz/</link>
+    <description>Recent content in rpz on Broomhill Community Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/tags/rpz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pre-RPZ Parking Survey Analysis</title>
+      <link>https://broomhillcc.org.uk/nov23-rpzinfo/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/nov23-rpzinfo/</guid>
+      <description>A restricted parking zone will be introduced by Glasgow City Council in 2024/25 read for our analysis of the latest parking survey</description>
+    </item>
+    
+    <item>
+      <title>Broomhill Community Council Proposals to Glasgow City Council on Roads ahead of the introduction of RPZ</title>
+      <link>https://broomhillcc.org.uk/apr22-rpzsub/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/apr22-rpzsub/</guid>
+      <description>In April 2022 the community council made a submission with proposals to Glasgow city council about how our neighbourhood could be reshaped during the RPZ road layout redesign.</description>
+    </item>
+    
+  </channel>
+</rss>
