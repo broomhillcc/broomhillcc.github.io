@@ -45,3 +45,7 @@ Broomhill Community Council recently received the results of the recent parking 
   - While a small percentage of cars may need alternative parking, the overall report suggests that there will be ample excess capacity in Broomhill to accommodate parking needs, even after RPZ implementation.
 ## Read the Report
 + [Download](/RPZ-Oct23-update.pdf)
+
+## Comments?
+
+Do you have views on the RPZ information? [Do please get in touch!](/contactus/)

@@ -187,5 +187,32 @@
       <description>About Broomhill Community Council.</description>
     </item>
     
+    <item>
+      <title>Contact Us</title>
+      <link>https://broomhillcc.org.uk/aboutus-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/aboutus-copy/</guid>
+      <description>Get in touch</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://broomhillcc.org.uk/contactus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/contactus/</guid>
+      <description>Get in touch</description>
+    </item>
+    
+    <item>
+      <title>Thanks for getting in touch!</title>
+      <link>https://broomhillcc.org.uk/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/thanks/</guid>
+      <description>We will be back in contact in due course! </description>
+    </item>
+    
   </channel>
 </rss>

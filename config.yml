@@ -24,7 +24,10 @@ menu:
           url: /news/ 
           weight: 4
         - name: RPZ
-          url: /rpz/  
+          url: /rpz/
+          weight: 5
+        - name: Contact
+          url: /contactus/   
 
 params:
     description: "We are a residents' forum for Broomhill area of Glasgow"
