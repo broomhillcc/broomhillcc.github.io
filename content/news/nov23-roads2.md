@@ -1,23 +1,23 @@
 ---
-title: "A898 Northbound Slip Road" 
-date: 2023-11-09
+title: "M77 Maintenance" 
+date: 2023-11-01
 url: /nov23-roads2/
 tags: ["roads"]
 author: ["Amey Road Works"]
-description: "ESSENTIAL BRIDGE EXPANSION JOINT REPLACEMENTS ON THE A898 NORTHBOUND SLIP-ROAD TO A82 WESTBOUND COMMENCE FRIDAY 17TH  NOVEMBER 2023"
-summary: "ESSENTIAL BRIDGE EXPANSION JOINT REPLACEMENTS ON THE A898 NORTHBOUND SLIP-ROAD TO A82 WESTBOUND COMMENCE FRIDAY 17TH  NOVEMBER 2023" 
+description: "ESSENTIAL WOODLAND MANAGEMENT ON THE M77 BETWEEN JUNCTIONS 5 AND 2 COMMENCES MONDAY 13TH NOVEMBER 2023" 
+summary: "ESSENTIAL WOODLAND MANAGEMENT ON THE M77 BETWEEN JUNCTIONS 5 AND 2 COMMENCES MONDAY 13TH NOVEMBER 2023" 
 ---
 
 ---
 
 ##### Notice
 
-Amey, on behalf of Transport Scotland, are undertaking an essential bridge expansion joint replacement on the A898 northbound slip-road to the A82 westbound. Bridge expansion joint replacements are scheduled to be undertaken over a full weekend closure at this location from 8pm on Friday 17th November until 6am on Monday 20th November 2023. A signed diversion will be in operation. 
+Amey, on behalf of Transport Scotland, are undertaking essential woodland maintenance on the M77 between Junctions 5 and 2 from Monday 13th November 2023 until Tuesday 16th January 2024. The works will pause for the Christmas break between Friday 22nd December 2023 and Thursday 4th January 2024. 
 
-This scheme will benefit around 46,000 vehicles using this route each day, by improving the condition of the structure, and reducing the need for more extensive maintenance in the future. 
+This scheme will benefit around 13,000 vehicles using this route each day, by removing hazardous trees in close proximity to the trunk road, as well as increasing the resilience of the landscape in the face of pests, diseases, and climate change. 
 
-The diversion route is as follows: 
+All operations on the mainline and the slip roads will be during daylight hours with hard shoulder closures. Except at Junction 4 and 3 on slips, where operations will be during nighttime hours with both on slip roads closed. The two slip road closure dates will be confirmed and communicated in a future news release with diversion routes. 
 
-A898 northbound traffic, excluding HGVs, will be directed to take the A898 slip-road onto the A82 eastbound, and will turn left on to Mountblow Road. From here, traffic will take the next right turn towards Melbourne Avenue where they will be able to join the A82 westbound.  
+Access for emergency service vehicles will be maintained throughout these works. 
 
-HGV traffic will continue on the A82 eastbound to Kilbowie Roundabout and will take the fifth exit to join the A82 westbound. 
+

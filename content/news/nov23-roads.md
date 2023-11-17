@@ -1,6 +1,6 @@
 ---
 title: "A898 Northbound Slip Road" 
-date: 2023-11-01
+date: 2023-11-19
 url: /nov23-roads/
 tags: ["roads"]
 author: ["Amey Road Works"]
@@ -9,6 +9,11 @@ summary: "ESSENTIAL BRIDGE INVESTIGATIONS AND EXPANSION JOINT REPLACEMENTS ON TH
 ---
 
 ---
+
+##### Update
+
+Bridge expansion joint replacements on the A898 Erskine Bridge northbound slip road, scheduled to take place over the weekend of Friday 17th November 2023, have been postponed due to forecast adverse weather. The successful delivery of all road maintenance schemes is subject to favourable weather conditions. Rescheduled dates will be communicated in due course. 
+
 
 ##### Notice
 
