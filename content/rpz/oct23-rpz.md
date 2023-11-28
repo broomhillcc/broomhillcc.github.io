@@ -23,6 +23,7 @@ A traffic and parking survey has been carried out recently which is part the inf
 
 Broomhill Community Council recently received the results of the recent parking survey and our Liveable Neighbourhoods lead, Martin Keane has produced an analysis of the results
 ## Executive Summary of Report
+
 - **Benefits of RPZ Implementation:**
   - Enhanced enforcement against illegal parking, including on pavements, cycle lanes, and at bus stops.
   - Reduction in caravan and commuter parking, leading to more spaces for residents.
