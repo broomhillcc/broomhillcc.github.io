@@ -1,7 +1,7 @@
 ---
 title: "Police Scotland Report for Broomhill" 
 date: 2023-11-28
-url: /oct23-police/
+url: /nov23-police/
 tags: ["crime","news"]
 author: ["Police Scotland"]
 description: "November 2023's Police Scotland Report." 
