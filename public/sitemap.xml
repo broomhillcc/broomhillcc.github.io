@@ -2,28 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://broomhillcc.org.uk/tags/books/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://broomhillcc.org.uk/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://broomhillcc.org.uk/tags/broomhill-hub/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/tags/crime/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+    <loc>https://broomhillcc.org.uk/jan24-fonp-lending-library/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/tags/news/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/news/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/reading/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/wellbeing/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/crime/</loc>
+    <lastmod>2024-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/dec23-police/</loc>
+    <lastmod>2024-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/broomhill-hub/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/nov23-police/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/nov23-bcht/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/tags/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/tags/covid19/</loc>
@@ -66,9 +81,6 @@
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/tags/procession/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/tags/wellbeing/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/nov23-roads2/</loc>

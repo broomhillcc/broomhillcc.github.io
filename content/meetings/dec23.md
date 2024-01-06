@@ -18,7 +18,7 @@ Text: "4th December"
 
 ##### Agenda & Minutes
 + [Agenda](/dec23.pdf)
-+ [Minutes- Coming soon]
++ [Minutes](/dec23m.pdf)
 
 ---
 
