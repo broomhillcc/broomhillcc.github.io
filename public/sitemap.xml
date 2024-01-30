@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://broomhillcc.org.uk/tags/books/</loc>
-    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://broomhillcc.org.uk/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/jan24-gully-cleaning/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/news/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/news/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/parking/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/roads/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/ttro/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/books/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/jan24-fonp-lending-library/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://broomhillcc.org.uk/tags/news/</loc>
-    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/news/</loc>
-    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://broomhillcc.org.uk/tags/reading/</loc>
-    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/tags/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/tags/wellbeing/</loc>
@@ -48,9 +60,6 @@
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/nov23-roads/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/tags/roads/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/nov23-rpzinfo/</loc>
