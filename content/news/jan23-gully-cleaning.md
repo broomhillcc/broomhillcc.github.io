@@ -36,9 +36,9 @@ The TTRO will be in place for the duration of the work – this means 𝗻𝗼 �
 
 To get the best results for your street, we need you to move your vehicle and comply with the TTRO. Look out for the signage on your street. We appreciate your help and thank you for helping us #CleanGlasgow 😍
 
-Find out more about the gullies programme 👉[www.glasgow.gov.uk/gullies](www.glasgow.gov.uk/gullies)
+Find out more about the gullies programme 👉[www.glasgow.gov.uk/gullies](http://www.glasgow.gov.uk/gullies)
 
-Please be advised that the list of streets incorporated within the programme can be found [www.glasgow.gov.uk/gullies](www.glasgow.gov.uk/gullies)
+Please be advised that the list of streets incorporated within the programme can be found [www.glasgow.gov.uk/gullies](http://www.glasgow.gov.uk/gullies)
 
 
 Thanks
