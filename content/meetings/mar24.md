@@ -18,7 +18,7 @@ Text: "13th of March"
 
 ##### Agenda & Minutes
 + [Agenda](/mar24.pdf)
-+ Minutes Coming soon
++ [Minutes](/mar24m.pdf)
 
 ---
 
