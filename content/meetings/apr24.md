@@ -18,7 +18,7 @@ Text: "10th of April"
 
 ##### Agenda & Minutes
 + [Agenda](/apr24.pdf)
-+ Minutes Coming soon
++ [Minutes](/apr24m.pdf)
 
 ---
 
