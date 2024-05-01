@@ -2,7 +2,7 @@
 ---
 title: "Information on Pavement Parking Ban in Glasgow"
 date: 2024-04-30
-url: /mar24-pavement-parking/
+url: /apr24-pavement-parking/
 tags: ["Traffic Regulation", "Road Safety", "Glasgow", "Local Government", "Pavement Parking"]
 author: ["GCC"]
 description: "Glasgow City Council will soon implement new enforcement measures to address pavement parking. This initiative aims to enhance road safety and pedestrian accessibility across the city."
