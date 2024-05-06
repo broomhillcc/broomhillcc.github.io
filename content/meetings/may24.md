@@ -1,6 +1,6 @@
 ---
 title: "May 2024 Broomhill Community Council meeting" 
-date: 2024-05-08
+date: 2024-05-01
 url: /may24/
 
 tags: ["Monthly meeting"]
