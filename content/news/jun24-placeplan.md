@@ -18,6 +18,6 @@ cover:
 ![](/broomhillplaceplan.png)
 
 ##### Launch of Broomhill Place Plan
-Do you live or work in, or regularly visit, Broomhill? We want to hear from you! We have just launched our first round of public engagement to develop a Local Place Plan for the Broomhill area. Community voices are the core of the Place Plan, so we need your ideas to help inform future plans in the area. Visit our website for more information, to complete our first online survey and find out ways to meet us in person. Visit: [www.broomhillplan.com][https://broomhillplaceplan.com]
+Do you live or work in, or regularly visit, Broomhill? We want to hear from you! We have just launched our first round of public engagement to develop a Local Place Plan for the Broomhill area. Community voices are the core of the Place Plan, so we need your ideas to help inform future plans in the area. Visit our website for more information, to complete our first online survey and find out ways to meet us in person. Visit: [www.broomhillplan.com](https://broomhillplaceplan.com)
 
 We are also hosting an informal drop-in and Q&A session at the Broomhill Community Council meeting tomorrow night 12/06/24, from 6.15pm at Broomhill Primary School - all are welcome to attend.
