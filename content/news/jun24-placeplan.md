@@ -3,7 +3,7 @@ title: "Broomhill Place Plan Community Engagement Event and Survey"
 date: 2024-06-10
 url: /jun24-placeplan/
 tags: ["news","wellbeing","local","amenities"]
-author: ["AgeUK"]
+author: ["NewPractice"]
 description: "We need your input for Broomhill's future! Share your ideas in our first public engagement round for the Local Place Plan. Visit www.broomhillplan.com for details and our online survey." 
 summary: "Do you live, work, or visit Broomhill? We need your ideas for the Local Place Plan. Participate in our first public engagement round by visiting www.broomhillplan.com. "
 cover:
