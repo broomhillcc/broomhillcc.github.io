@@ -1,6 +1,6 @@
 ---
 title: "Broomhill Place Plan Community Engagement Event and Survey" 
-date: 2024-06-11
+date: 2024-06-10
 url: /jun24-placeplan/
 tags: ["news","wellbeing","local","amenities"]
 author: ["AgeUK"]
