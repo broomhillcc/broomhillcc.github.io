@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Glasgow on Broomhill Community Council</title>
-    <link>https://broomhillcc.org.uk/tags/glasgow/</link>
+    <link>http://localhost:1313/tags/glasgow/</link>
     <description>Recent content in Glasgow on Broomhill Community Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/tags/glasgow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/glasgow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Information on Pavement Parking Ban in Glasgow</title>
-      <link>https://broomhillcc.org.uk/apr24-pavement-parking/</link>
+      <link>http://localhost:1313/apr24-pavement-parking/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://broomhillcc.org.uk/apr24-pavement-parking/</guid>
+      <guid>http://localhost:1313/apr24-pavement-parking/</guid>
       <description>Glasgow City Council will soon implement new enforcement measures to address pavement parking. This initiative aims to enhance road safety and pedestrian accessibility across the city.</description>
     </item>
     
     <item>
       <title>Have your say about Air Quality in Glasgow</title>
-      <link>https://broomhillcc.org.uk/mar24-AQC/</link>
+      <link>http://localhost:1313/mar24-AQC/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://broomhillcc.org.uk/mar24-AQC/</guid>
+      <guid>http://localhost:1313/mar24-AQC/</guid>
       <description>This plan aims to engage us - stakeholders and the general public - in meaningful dialogue. It&amp;#39;s about understanding the actions proposed by Glasgow City Council to combat air pollution and achieve better air quality across Glasgow. Your opinions are invaluable in this!</description>
     </item>
     

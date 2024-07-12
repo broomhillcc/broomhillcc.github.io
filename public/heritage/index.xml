@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Broomhill Heritage Trail on Broomhill Community Council</title>
-    <link>https://broomhillcc.org.uk/heritage/</link>
+    <link>http://localhost:1313/heritage/</link>
     <description>Recent content in Broomhill Heritage Trail on Broomhill Community Council</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://broomhillcc.org.uk/heritage/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/heritage/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Governance on Broomhill Community Council</title>
-    <link>https://broomhillcc.org.uk/tags/governance/</link>
+    <link>http://localhost:1313/tags/governance/</link>
     <description>Recent content in Governance on Broomhill Community Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/tags/governance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/governance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>https://broomhillcc.org.uk/privacy/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://broomhillcc.org.uk/privacy/</guid>
+      <guid>http://localhost:1313/privacy/</guid>
       <description>This is BCC&amp;#39;s Privacy Policy</description>
     </item>
     
     <item>
       <title>BCC Constitution</title>
-      <link>https://broomhillcc.org.uk/constitution/</link>
+      <link>http://localhost:1313/constitution/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://broomhillcc.org.uk/constitution/</guid>
+      <guid>http://localhost:1313/constitution/</guid>
       <description>Here you can read our constitution</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Broomhill Hub on Broomhill Community Council</title>
-    <link>https://broomhillcc.org.uk/tags/broomhill-hub/</link>
+    <link>http://localhost:1313/tags/broomhill-hub/</link>
     <description>Recent content in Broomhill Hub on Broomhill Community Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/tags/broomhill-hub/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/broomhill-hub/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Save the date:  Unveiling of Broomhill Hub Feasibility Study and Business Plan on 6th December</title>
-      <link>https://broomhillcc.org.uk/nov23-bcht/</link>
+      <link>http://localhost:1313/nov23-bcht/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://broomhillcc.org.uk/nov23-bcht/</guid>
+      <guid>http://localhost:1313/nov23-bcht/</guid>
       <description>Unveiling of the Broomhill Hub Feasibility Study and Business Plan at the Broomhill Community Church on Norby rd on 06/12/23 @ 19:00</description>
     </item>
     
