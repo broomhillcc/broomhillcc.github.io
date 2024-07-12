@@ -18,7 +18,7 @@ Text: "12th of June"
 
 ##### Agenda & Minutes
 + [Agenda](/june24.pdf)
-+ Minutes coming soon!
++ [Minutes](/june24m.pdf)
 
 ---
 

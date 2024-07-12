@@ -18,7 +18,7 @@ Text: "8th of May"
 
 ##### Agenda & Minutes
 + [Agenda](/may24.pdf)
-+ [Minutes](/may24m)
++ [Minutes](/may24m.pdf)
 
 ---
 
