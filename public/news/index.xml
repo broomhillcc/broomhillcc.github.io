@@ -2,180 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>News on Broomhill Community Council</title>
-    <link>http://localhost:1313/news/</link>
+    <link>https://broomhillcc.org.uk/news/</link>
     <description>Recent content in News on Broomhill Community Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Police Scotland Report for Broomhill</title>
-      <link>http://localhost:1313/jun24-police/</link>
+      <link>https://broomhillcc.org.uk/aug24-police/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/aug24-police/</guid>
+      <description>August 2024&amp;#39;s Police Scotland Report.</description>
+    </item>
+    
+    <item>
+      <title>Police Scotland Report for Broomhill</title>
+      <link>https://broomhillcc.org.uk/jun24-police/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jun24-police/</guid>
+      <guid>https://broomhillcc.org.uk/jun24-police/</guid>
       <description>June 2024&amp;#39;s Police Scotland Report.</description>
     </item>
     
     <item>
       <title>Broomhill Place Plan Community Engagement Event and Survey</title>
-      <link>http://localhost:1313/jun24-placeplan/</link>
+      <link>https://broomhillcc.org.uk/jun24-placeplan/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jun24-placeplan/</guid>
+      <guid>https://broomhillcc.org.uk/jun24-placeplan/</guid>
       <description>We need your input for Broomhill&amp;#39;s future! Share your ideas in our first public engagement round for the Local Place Plan. Visit www.broomhillplan.com for details and our online survey.</description>
     </item>
     
     <item>
       <title>Police Scotland Report for Broomhill</title>
-      <link>http://localhost:1313/may24-police/</link>
+      <link>https://broomhillcc.org.uk/may24-police/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/may24-police/</guid>
+      <guid>https://broomhillcc.org.uk/may24-police/</guid>
       <description>May 2024&amp;#39;s Police Scotland Report.</description>
     </item>
     
     <item>
       <title>Information on Pavement Parking Ban in Glasgow</title>
-      <link>http://localhost:1313/apr24-pavement-parking/</link>
+      <link>https://broomhillcc.org.uk/apr24-pavement-parking/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/apr24-pavement-parking/</guid>
+      <guid>https://broomhillcc.org.uk/apr24-pavement-parking/</guid>
       <description>Glasgow City Council will soon implement new enforcement measures to address pavement parking. This initiative aims to enhance road safety and pedestrian accessibility across the city.</description>
     </item>
     
     <item>
       <title>Police Scotland Report for Broomhill</title>
-      <link>http://localhost:1313/mar24-police/</link>
+      <link>https://broomhillcc.org.uk/mar24-police/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mar24-police/</guid>
+      <guid>https://broomhillcc.org.uk/mar24-police/</guid>
       <description>March 2024&amp;#39;s Police Scotland Report.</description>
     </item>
     
     <item>
       <title>Have your say about Air Quality in Glasgow</title>
-      <link>http://localhost:1313/mar24-AQC/</link>
+      <link>https://broomhillcc.org.uk/mar24-AQC/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mar24-AQC/</guid>
+      <guid>https://broomhillcc.org.uk/mar24-AQC/</guid>
       <description>This plan aims to engage us - stakeholders and the general public - in meaningful dialogue. It&amp;#39;s about understanding the actions proposed by Glasgow City Council to combat air pollution and achieve better air quality across Glasgow. Your opinions are invaluable in this!</description>
     </item>
     
     <item>
       <title>Police Scotland Report for Broomhill</title>
-      <link>http://localhost:1313/feb24-police/</link>
+      <link>https://broomhillcc.org.uk/feb24-police/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/feb24-police/</guid>
+      <guid>https://broomhillcc.org.uk/feb24-police/</guid>
       <description>February 2024&amp;#39;s Police Scotland Report.</description>
     </item>
     
     <item>
       <title>Police Scotland Report for Broomhill</title>
-      <link>http://localhost:1313/jan24-police/</link>
+      <link>https://broomhillcc.org.uk/jan24-police/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jan24-police/</guid>
+      <guid>https://broomhillcc.org.uk/jan24-police/</guid>
       <description>January 2024&amp;#39;s Police Scotland Report.</description>
     </item>
     
     <item>
       <title>Gully Cleaning Programme Broomhill/Partick West &amp; Drumchapel 04/02-10/03</title>
-      <link>http://localhost:1313/jan24-gully-cleaning/</link>
+      <link>https://broomhillcc.org.uk/jan24-gully-cleaning/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jan24-gully-cleaning/</guid>
-      <description>Gully Cleaning Programme Broomhill/Partick West &amp;amp; Drumchapel 04/02-10/03 Please be advised that our Gullying Cleaning Programme is scheduled to take place in Broomhill/ Partick West &amp;amp; Drumchapel neighbourhood which will commence on Sunday 4th February 2024 weather permitting. The programme is due to last until 10th March 2024 and Glasgow City Council gullies within the area are due to be cleaned as part of this.
-Do you park a vehicle in the Broomhill/Partick West &amp;amp; Drumchapel Neighbourhoods We’ll soon be in the area cleaning gullies, but for us to do our best, we need the streets to be clear of vehicles.</description>
+      <guid>https://broomhillcc.org.uk/jan24-gully-cleaning/</guid>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;gully-cleaning-programme-broomhillpartick-west--drumchapel-0402-1003&#34;&gt;Gully Cleaning Programme Broomhill/Partick West &amp;amp; Drumchapel 04/02-10/03&lt;/h5&gt;
+&lt;p&gt;Please be advised that our Gullying Cleaning Programme is scheduled to take place in Broomhill/ Partick West &amp;amp; Drumchapel neighbourhood which will commence on Sunday 4th February 2024 weather permitting. The programme is due to last until 10th March 2024 and Glasgow City Council gullies within the area are due to be cleaned as part of this.&lt;/p&gt;
+&lt;h6 id=&#34;do-you-park-a-vehicle-in-the-broomhillpartick-west--drumchapel-neighbourhoods&#34;&gt;Do you park a vehicle in the Broomhill/Partick West &amp;amp; Drumchapel Neighbourhoods&lt;/h6&gt;
+&lt;p&gt;We’ll soon be in the area cleaning gullies, but for us to do our best, we need the streets to be clear of vehicles. This means 𝗻𝗼 𝗽𝗮𝗿𝗸𝗶𝗻𝗴 your vehicle during the work. There will be temporary parking restrictions (TTRO) in your street and surrounding area 🚗️ ❌&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Friends of Naseby Park unveil book lending library</title>
-      <link>http://localhost:1313/jan24-fonp-lending-library/</link>
+      <link>https://broomhillcc.org.uk/jan24-fonp-lending-library/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jan24-fonp-lending-library/</guid>
+      <guid>https://broomhillcc.org.uk/jan24-fonp-lending-library/</guid>
       <description>A new Book Lending Library, crafted by Fred Munro and supported by Stockline Plastics, has been unveiled by the Friends of Naseby Park in Naseby Park. This community initiative invites the public to borrow, donate, and enjoy books in a shared effort to foster a culture of reading and community spirit in Broomhill.</description>
     </item>
     
     <item>
       <title>Police Scotland Report for Broomhill</title>
-      <link>http://localhost:1313/dec23-police/</link>
+      <link>https://broomhillcc.org.uk/dec23-police/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/dec23-police/</guid>
+      <guid>https://broomhillcc.org.uk/dec23-police/</guid>
       <description>December 2023&amp;#39;s Police Scotland Report.</description>
     </item>
     
     <item>
       <title>Police Scotland Report for Broomhill</title>
-      <link>http://localhost:1313/nov23-police/</link>
+      <link>https://broomhillcc.org.uk/nov23-police/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nov23-police/</guid>
+      <guid>https://broomhillcc.org.uk/nov23-police/</guid>
       <description>November 2023&amp;#39;s Police Scotland Report.</description>
     </item>
     
     <item>
       <title>Save the date:  Unveiling of Broomhill Hub Feasibility Study and Business Plan on 6th December</title>
-      <link>http://localhost:1313/nov23-bcht/</link>
+      <link>https://broomhillcc.org.uk/nov23-bcht/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nov23-bcht/</guid>
+      <guid>https://broomhillcc.org.uk/nov23-bcht/</guid>
       <description>Unveiling of the Broomhill Hub Feasibility Study and Business Plan at the Broomhill Community Church on Norby rd on 06/12/23 @ 19:00</description>
     </item>
     
     <item>
       <title>Let&#39;s Be Heard: Sharing Scotland&#39;s COVID Experience is the Scottish COVID-19 Inquiry&#39;s listening project.</title>
-      <link>http://localhost:1313/nov23-covid19/</link>
+      <link>https://broomhillcc.org.uk/nov23-covid19/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nov23-covid19/</guid>
+      <guid>https://broomhillcc.org.uk/nov23-covid19/</guid>
       <description>The Scottish COVID-19 Inquiry’s listening project, Let&amp;#39;s Be Heard, invites the public to share their experiences of the pandemic and any lessons they believe should be learned.</description>
     </item>
     
     <item>
       <title>A898 Northbound Slip Road</title>
-      <link>http://localhost:1313/nov23-roads/</link>
+      <link>https://broomhillcc.org.uk/nov23-roads/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nov23-roads/</guid>
+      <guid>https://broomhillcc.org.uk/nov23-roads/</guid>
       <description>ESSENTIAL BRIDGE INVESTIGATIONS AND EXPANSION JOINT REPLACEMENTS ON THE A898 NORTHBOUND SLIP-ROAD TO A82 WESTBOUND COMMENCE THURSDAY 2ND NOVEMBER 2023 </description>
     </item>
     
     <item>
       <title>Age Scotland Friendship calling services</title>
-      <link>http://localhost:1313/nov23-ageuk/</link>
+      <link>https://broomhillcc.org.uk/nov23-ageuk/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nov23-ageuk/</guid>
+      <guid>https://broomhillcc.org.uk/nov23-ageuk/</guid>
       <description>For older people, carers and their families get advice on friendship services at 0800 12 44 222</description>
     </item>
     
     <item>
       <title>Notification of Procession</title>
-      <link>http://localhost:1313/nov23-procession/</link>
+      <link>https://broomhillcc.org.uk/nov23-procession/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nov23-procession/</guid>
+      <guid>https://broomhillcc.org.uk/nov23-procession/</guid>
       <description>Notice of Forthcoming remembrance day procession</description>
     </item>
     
     <item>
       <title>M77 Maintenance</title>
-      <link>http://localhost:1313/nov23-roads2/</link>
+      <link>https://broomhillcc.org.uk/nov23-roads2/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nov23-roads2/</guid>
+      <guid>https://broomhillcc.org.uk/nov23-roads2/</guid>
       <description>ESSENTIAL WOODLAND MANAGEMENT ON THE M77 BETWEEN JUNCTIONS 5 AND 2 COMMENCES MONDAY 13TH NOVEMBER 2023</description>
     </item>
     
     <item>
       <title>Police Scotland Report for Broomhill</title>
-      <link>http://localhost:1313/oct23-police/</link>
+      <link>https://broomhillcc.org.uk/oct23-police/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/oct23-police/</guid>
+      <guid>https://broomhillcc.org.uk/oct23-police/</guid>
       <description>October 2023&amp;#39;s Police Scotland Report.</description>
     </item>
     

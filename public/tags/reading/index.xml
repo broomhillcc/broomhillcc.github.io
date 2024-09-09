@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reading on Broomhill Community Council</title>
-    <link>http://localhost:1313/tags/reading/</link>
+    <link>https://broomhillcc.org.uk/tags/reading/</link>
     <description>Recent content in Reading on Broomhill Community Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/tags/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Friends of Naseby Park unveil book lending library</title>
-      <link>http://localhost:1313/jan24-fonp-lending-library/</link>
+      <link>https://broomhillcc.org.uk/jan24-fonp-lending-library/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jan24-fonp-lending-library/</guid>
+      <guid>https://broomhillcc.org.uk/jan24-fonp-lending-library/</guid>
       <description>A new Book Lending Library, crafted by Fred Munro and supported by Stockline Plastics, has been unveiled by the Friends of Naseby Park in Naseby Park. This community initiative invites the public to borrow, donate, and enjoy books in a shared effort to foster a culture of reading and community spirit in Broomhill.</description>
     </item>
     
