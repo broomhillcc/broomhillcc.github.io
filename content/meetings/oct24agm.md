@@ -1,6 +1,6 @@
 ---
 title: "October Broomhill Community Council AGM and meeting" 
-date: 2024-10-09
+date: 2024-10-04
 
 url: /october24/
 tags: ["AGM","Monthly meeting"]

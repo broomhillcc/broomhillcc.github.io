@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://broomhillcc.org.uk/tags/agm/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://broomhillcc.org.uk/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/meetings/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/monthly-meeting/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/october24/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/tags/crime/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
@@ -20,9 +32,6 @@
     <loc>https://broomhillcc.org.uk/aug24-police/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://broomhillcc.org.uk/tags/</loc>
-    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://broomhillcc.org.uk/sep24-rpz-update/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -31,9 +40,6 @@
   </url><url>
     <loc>https://broomhillcc.org.uk/tags/rpz/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/tags/monthly-meeting/</loc>
-    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/september24/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
@@ -178,9 +184,6 @@
   </url><url>
     <loc>https://broomhillcc.org.uk/oct23-police/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/tags/agm/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/october23/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
