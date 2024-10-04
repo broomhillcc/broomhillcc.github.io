@@ -18,7 +18,7 @@ Text: "11th of September"
 
 ##### Agenda & Minutes
 + [Agenda](/september24.pdf)
-+ [Minutes] (Coming Soon!)
++ [Minutes](/september24m.pdf)
 
 ---
 
