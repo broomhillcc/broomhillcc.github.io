@@ -1,11 +1,11 @@
 ---
 title: "Police Scotland Report for Broomhill" 
-date: 2024-09-30
-url: /sep24-police/
+date: 2024-10-31
+url: /oct24-police/
 tags: ["crime","news"]
 author: ["Police Scotland"]
-description: "September 2024's Police Scotland Report." 
-summary: "September 2024's Police Scotland Report"
+description: "October 2024's Police Scotland Report." 
+summary: "October 2024's Police Scotland Report"
 disableAnchoredHeadings: false
 showToc: true
 
@@ -14,42 +14,30 @@ showToc: true
 ---
 
 ### Area Overview / General Information
-Welcomingly, there has been a noticeable drop in crime within the area over September with only 1 crime recorded for a vandalism. 
+Over October there has been a slight increase in crime reports compared with September’s figures.
 
-Again, as mentioned last month, shoplifting is ever prevalent within the
-surrounding areas, Hyndland in particular, and I would request that local businesses are mindful of shoplifters operating within the area and report any incidents to police in the first instance.
-This month I will be attending Broomhill Primary to talk about the role of police and allow the children to ask questions at the request of the school. We will also attend when we can to enforce the no car zone.
+Notably there has been 2 reports of theft from motor vehicles, involving the theft of sports equipment from an insecure vehicle and a theft of motorbike which was found nearby.
 
-#### Motorcycle Safety Campaign 2024
+I would request that residents in the area are mindful of ensuring their vehicles are not only locked and secured, but also that no items of any value are left on show, especially bags, or sports equipment such as golf clubs. In nearby Hyndland there had been a spate of thefts from motor vehicles involving golf clubs over the last few months. Road Traffic incidents were also up with detections at Balshagray Avenue and Crow Rd, involving vehicles with no insurance, MOT and not displaying registration plates. 
 
-Our annual motorcycle safety campaign urges drivers to look out for motorcyclists as riders take to the road this summer.
+We also attended Broomhill Primary earlier this month to discuss the role of Police, where they had the opportunity to ask questions and were given a tour our police vehicle and sirens! We also managed to hand out high-visibility stickers and bike equipment packs to keep them safe on their walk to school and books were also handed out. 
 
-The campaign runs from March to September, covering a period that sees the highest number of motorcyclists killed or seriously injured. Motorcyclists are one of the most vulnerable road users and are disproportionately represented in the number of people killed on Scotland’s roads.
+#### CRIME PREVENTION AND SECURITY ADVICE EVENT
 
-In 2023/24, there were 151 road deaths and 27 were motorcyclists. Motorcyclists make up around one per cent of all road users yet account for 14 per cent of deaths.
+An opportunity not to be missed 
 
-Chief Superintendent Hilary Sloan, head of Road Policing, said: “We all have a responsibility to keep Scotland’s roads safe and motorcyclists are one of the most vulnerable road users.
+When: Tuesday 12 November 2024
 
-“We know that most collisions involving a motorcyclist happen between March and September. You are more likely to see a motorcyclist on the road during this time and my message is look out for them, particularly at junctions and in rural areas.
+Time 1000hrs-1500hr 
 
-“Failing to look properly or losing control can happen in a split second. Take responsibility and take care of each other on the road.”
+Where: Home of Scottish Football -Hampden Park, Letherby Drive, Glasgow G42 9B 
 
-Engagement and enforcement activity will take place throughout the spring and summer months using both marked and unmarked police vehicles.
+With crime increasing dramatically within the retail industry, it’s not only a burden on your business in relation to profit margins but can adversely affect the general day to day running. This in turn can have a detrimental effect on your staff which could include personal safety, morale, and possibly mental health concerns all of which can then contribute to an increase in staff absence levels 
 
-Police Scotland officers, including those from the national motorcycle unit, will be carrying out intelligence led patrols to engage with all drivers and riders.
+This is a drop in event where we will be providing information and advice in relation to crime prevention and home safety by supporting the principles of “Secured by Design”. Why not get new ideas by taking some time out of your day, come along and chat with over 20 exhibitors and see what’s on offer. This may be the inspiration you need to make small changes in relation to your security or to drive your business forward. In attendance will be representatives from Alarm companies, CCTV suppliers, Internal fogging type devices, locks and Hardware, Security fencing suppliers, Banking representatives, Police and Scottish Fire and Rescue as well as having a conversation with Retailers Against Crime and the Scottish Grocers’ Federation plus much more. 
+ This event is not only for retailers and businesses but for your personal and home safety. FREE PARKING
 
-Content will be posted on our social media channels across summer to raise awareness of the campaign
-
-
-#### Police Scotland Bank Scam
-
-A  number of reports have been received by Police Scotland in regard to telephone calls from criminals impersonating police officers in order to obtain money from victims. The criminal impersonating the police informs the victim that they have been subject to a fraud, and thereafter the criminal will attempt to get money from the victim. Police Scotland officers will never:
-
-1. Ask you to transfer money to another account
-2. Ask you to withdraw money and hand it to a person or post it by mail
-3. Exchange money into Euros or other foreign currency
-4. Ask for your PIN number
-5. Tell you that a new bank account has been set up for you to move money into
+We hope to see you there!
 
 #### Theft of Keyless Entry Cars
 
@@ -84,15 +72,15 @@ Find out more
 
 ### Crimes of Violence 
 
-There were no crime reports raised for violence committed over September.
+There was 1 crime report raised for threatening and abusive behaviour committed over October.
 
 ### Crimes of Dishonesty
 
-There was no crime reports raised for dishonesty committed over September.
+There was 1 crime reports raised for dishonesty committed over October
 
 ### Crimes Against Property
 
-There were 1 crime against property reported this month.
+There were 4 crimes against property reported this month including 2 thefts from motor vehicles and a vandalism.
 
 ### Drugs Use and Abuse
 
@@ -105,4 +93,4 @@ Tel: 0800 555 111
 
 ### Road Traffic Matters 
 
-There were no Road Traffic matters reported this month.
+There were 3 Road Traffic matters reported this month including No insurance, No MOT and No registration plates, across Balshagray Avenue and Crow Rd.

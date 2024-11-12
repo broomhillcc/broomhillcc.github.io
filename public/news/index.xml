@@ -6,13 +6,22 @@
     <description>Recent content in News on Broomhill Community Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Police Scotland Report for Broomhill</title>
-      <link>https://broomhillcc.org.uk/aug24-police/</link>
+      <link>https://broomhillcc.org.uk/oct24-police/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/oct24-police/</guid>
+      <description>October 2024&amp;#39;s Police Scotland Report.</description>
+    </item>
+    
+    <item>
+      <title>Police Scotland Report for Broomhill</title>
+      <link>https://broomhillcc.org.uk/sep24-police/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://broomhillcc.org.uk/aug24-police/</guid>
+      <guid>https://broomhillcc.org.uk/sep24-police/</guid>
       <description>September 2024&amp;#39;s Police Scotland Report.</description>
     </item>
     

@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Broomhill Community Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AGM</title>
-      <link>https://broomhillcc.org.uk/tags/agm/</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://broomhillcc.org.uk/tags/agm/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monthly Meeting</title>
       <link>https://broomhillcc.org.uk/tags/monthly-meeting/</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://broomhillcc.org.uk/tags/monthly-meeting/</guid>
       <description></description>
@@ -28,7 +19,7 @@
     <item>
       <title>Crime</title>
       <link>https://broomhillcc.org.uk/tags/crime/</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://broomhillcc.org.uk/tags/crime/</guid>
       <description></description>
@@ -37,9 +28,18 @@
     <item>
       <title>News</title>
       <link>https://broomhillcc.org.uk/tags/news/</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://broomhillcc.org.uk/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGM</title>
+      <link>https://broomhillcc.org.uk/tags/agm/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://broomhillcc.org.uk/tags/agm/</guid>
       <description></description>
     </item>
     
