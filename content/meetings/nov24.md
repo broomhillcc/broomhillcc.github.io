@@ -5,8 +5,8 @@ url: /november24/
 
 tags: ["Monthly meeting"]
 author: "Broomhill Community Council"
-description: "The November meeting will be held on 13/09 at Broomhill Primary School." 
-summary: "The November meeting will be held on 13/09 at Broomhill Primary School."
+description: "The November meeting was held on 13/09 at Broomhill Primary School." 
+summary: "The November meeting was held on 13/09 at Broomhill Primary School."
 editPost:
 disableAnchoredHeadings: false
 showToc: false
@@ -18,7 +18,7 @@ Text: "13th of November"
 
 ##### Agenda & Minutes
 + [Agenda](/november24.pdf)
-+ [Minutes] Coming Soon!
++ [Minutes](/nov24m.pdf)
 
 ---
 
