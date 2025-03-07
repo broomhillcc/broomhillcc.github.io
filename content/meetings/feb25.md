@@ -18,7 +18,7 @@ Text: "12th of February"
 
 ##### Agenda & Minutes
 + [Agenda](/feb25.pdf)
-+ Minutes(coming soon!)
++ [Minutes](/feb25m.pdf)
 
 ---
 
