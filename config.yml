@@ -1,6 +1,7 @@
 baseURL: "https://broomhillcc.org.uk/" 
 title: Broomhill Community Council
-paginate: 20
+pagination:
+  pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -26,6 +27,9 @@ menu:
         - name: RPZ
           url: /rpz/
           weight: 5
+        - name: Local Place Plan
+          url: /rpz/
+          weight: 6
         - name: Contact
           url: /contactus/   
 
@@ -69,12 +73,14 @@ params:
               url: /heritage/
             - name: RPZ & Liveable Neighbourhoods
               url: /rpz/
+            - name: Local Place Plan
+              url: /lpp/
             - name: Policies
               url: /policies/              
             - name: Keywords
               url: /tags/
 
-    socialIcons:
+    Social:
         - name: facebook
           url: https://www.facebook.com/Broomhillcc/
         - name: Email

@@ -4,7 +4,8 @@
     <title>Broomhill Heritage Trail on Broomhill Community Council</title>
     <link>https://broomhillcc.org.uk/heritage/</link>
     <description>Recent content in Broomhill Heritage Trail on Broomhill Community Council</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://broomhillcc.org.uk/heritage/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <atom:link href="https://broomhillcc.org.uk/heritage/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

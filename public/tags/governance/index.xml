@@ -4,26 +4,23 @@
     <title>Governance on Broomhill Community Council</title>
     <link>https://broomhillcc.org.uk/tags/governance/</link>
     <description>Recent content in Governance on Broomhill Community Council</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/tags/governance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://broomhillcc.org.uk/tags/governance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
       <link>https://broomhillcc.org.uk/privacy/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://broomhillcc.org.uk/privacy/</guid>
       <description>This is BCC&amp;#39;s Privacy Policy</description>
     </item>
-    
     <item>
       <title>BCC Constitution</title>
       <link>https://broomhillcc.org.uk/constitution/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://broomhillcc.org.uk/constitution/</guid>
       <description>Here you can read our constitution</description>
     </item>
-    
   </channel>
 </rss>
