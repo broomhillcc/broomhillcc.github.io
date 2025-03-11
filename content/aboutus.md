@@ -44,14 +44,14 @@ Note that any communication with us is subject to our [Privacy Policy](/privacy.
 |-------|-------|
 | Barbara McTavish | Chair |
 | Lorna McWilliams | Vice-Chair |
+|  | Treasurer |
 | Hector Rufrancos | Secretary |
-| | Broomhill Primary School Parent Council Rep |
-| Charles Scott | Treasurer |
+|  | Broomhill Primary School Parent Council Rep |
 |  | Minutes Secretary |
-|  | Victoria Park Community Trust Representative |
-|  | Victoria Park Area Partnership Alternate Rep |
-| David Rennie | Victoria Park Area Partnership Representative | 
+| Abigail Harding  | Victoria Park Community Trust Representative |
+| Elaine Hindle | Victoria Park Area Partnership Representative | 
 | | Friends of Naseby Park Representative |
-| Martin Keane | Liveable Neighbourhoods Representative |
 | Morag McKerrell | Ordinary Member |
 | Roy Hamdy | Ordinary Member |
+| David Rennie | Ordinary Member|
+|  | Victoria Park Area Partnership Alternate Rep |
