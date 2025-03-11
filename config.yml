@@ -27,8 +27,8 @@ menu:
         - name: RPZ
           url: /rpz/
           weight: 5
-        - name: Local Place Plan
-          url: /rpz/
+        - name: LPP
+          url: /lpp/
           weight: 6
         - name: Contact
           url: /contactus/   
