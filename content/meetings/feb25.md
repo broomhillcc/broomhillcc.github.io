@@ -1,7 +1,7 @@
 ---
 title: "February 2025 Broomhill Community Council meeting" 
 date: 2025-02-02
-url: /february24/
+url: /february25/
 
 tags: ["Monthly meeting"]
 author: "Broomhill Community Council"

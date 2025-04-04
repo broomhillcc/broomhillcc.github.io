@@ -25,4 +25,4 @@ cover:
 
 ## Comments?
 
-Do you have views on the LPP, this plan is at present under consultation until 17/03/25? [Do please get in touch!](/contactus/)
+Do you have views on the LPP, this plan is at present under consultation until 17/03/25 [Do please get in touch!](/contactus/)

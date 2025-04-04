@@ -1,7 +1,7 @@
 ---
 title: "March 2025 Broomhill Community Council meeting" 
 date: 2025-03-02
-url: /march24/
+url: /march25/
 
 tags: ["Monthly meeting"]
 author: "Broomhill Community Council"
@@ -18,7 +18,7 @@ Text: "12th of March"
 
 ##### Agenda & Minutes
 + [Agenda](/mar25.pdf)
-+ Minutes(coming soon!)
++ [Minutes](/mar25m.pdf)
 
 ---
 
