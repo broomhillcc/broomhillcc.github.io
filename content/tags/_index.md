@@ -1,5 +1,5 @@
 ---
 title: "Tags"
-description: "Topics covered and methods used in my research papers and courses."
+description: "Topics covered in our news stories, note minutes are not indexed"
 layout: "terms"
 ---
