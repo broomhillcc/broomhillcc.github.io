@@ -5,8 +5,8 @@ url: /march25/
 
 tags: ["Monthly meeting"]
 author: "Broomhill Community Council"
-description: "The March meeting will be held on 12/03 at Broomhill Primary School." 
-summary: "The March meeting will be held on 12/03 at Broomhill Primary School."
+description: "The March meeting was be held on 12/03 at Broomhill Primary School." 
+summary: "The March meeting was held on 12/03 at Broomhill Primary School."
 editPost:
 disableAnchoredHeadings: false
 showToc: false
