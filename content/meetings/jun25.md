@@ -1,5 +1,5 @@
 ---
-title: "May 2025 Broomhill Community Council meeting" 
+title: "June 2025 Broomhill Community Council meeting" 
 date: 2025-05-02
 url: /june25/
 
