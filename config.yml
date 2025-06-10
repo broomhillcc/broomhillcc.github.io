@@ -80,11 +80,6 @@ params:
             - name: Keywords
               url: /tags/
 
-    Social:
-        - name: facebook
-          url: https://www.facebook.com/Broomhillcc/
-        - name: Email
-          url: mailto:broomhillcc01@gmail.com
         
 
     assets:
