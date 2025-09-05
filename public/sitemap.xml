@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://broomhillcc.org.uk/tags/broomhill/</loc>
-    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://broomhillcc.org.uk/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/meetings/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/monthly-meeting/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/september25/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/broomhill/</loc>
     <lastmod>2025-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/tags/broomhill-primary/</loc>
@@ -50,9 +62,6 @@
     <loc>https://broomhillcc.org.uk/aug25-spring-into-summer/</loc>
     <lastmod>2025-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://broomhillcc.org.uk/tags/</loc>
-    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://broomhillcc.org.uk/tags/ukraine/</loc>
     <lastmod>2025-08-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -81,12 +90,6 @@
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/may25/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/meetings/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/tags/monthly-meeting/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/april25/</loc>
