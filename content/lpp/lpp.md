@@ -6,12 +6,8 @@ tags: ["lpp", "planning", "community"]
 author: ["BCC"]
 description: "The Broomhill & Thornwood Local Place Plan has now been formally accepted by Glasgow City Council." 
 summary: "The Broomhill & Thornwood Local Place Plan has been accepted by Glasgow City Council and will inform the new City Development Plan." 
-cover:
-    #image: /lpp2025.png
-    alt: "Broomhill & Thornwood Local Place Plan"
-    caption: "Broomhill & Thornwood Local Place Plan"
-    relative: false 
 ---
+
 
 ## Local Place Plan Accepted 🎉
 
