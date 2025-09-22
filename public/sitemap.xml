@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://broomhillcc.org.uk/lpp/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://broomhillcc.org.uk/</loc>
-    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/community/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/lpp/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/lpp/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/planning/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://broomhillcc.org.uk/tags/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/meetings/</loc>
     <lastmod>2025-09-02T00:00:00+00:00</lastmod>
@@ -12,9 +30,6 @@
     <lastmod>2025-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/september25/</loc>
-    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/tags/</loc>
     <lastmod>2025-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/tags/broomhill/</loc>
@@ -94,15 +109,6 @@
   </url><url>
     <loc>https://broomhillcc.org.uk/april25/</loc>
     <lastmod>2025-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/lpp/</loc>
-    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/lpp/</loc>
-    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://broomhillcc.org.uk/tags/lpp/</loc>
-    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://broomhillcc.org.uk/march25/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
