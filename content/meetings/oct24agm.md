@@ -16,6 +16,6 @@ summary: "The 2024 AGM will be a meeting where the community council will be re-
 
 + [AGM Agenda](/oct24agm.pdf)
 + [2023 AGM Minutes](/oct23agmm.pdf)
-+ Meeting Minutes (Coming Soon!)
++ [Meeting Minutes](/oct24agmm.pdf)
 ---
 
