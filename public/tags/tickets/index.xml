@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Community on Broomhill Community Council</title>
-    <link>https://broomhillcc.org.uk/tags/community/</link>
-    <description>Recent content in Community on Broomhill Community Council</description>
+    <title>Tickets on Broomhill Community Council</title>
+    <link>https://broomhillcc.org.uk/tags/tickets/</link>
+    <description>Recent content in Tickets on Broomhill Community Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://broomhillcc.org.uk/tags/tickets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glasgow 2026 Ticket Pre-Sale and £500 Sports Equipment Prize</title>
       <link>https://broomhillcc.org.uk/oct25-glasgow-2026-presale/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://broomhillcc.org.uk/oct25-glasgow-2026-presale/</guid>
       <description>Sign up to the Glasgow 2026 pre-sale for early access to tickets and a chance to win £500 of sports equipment for a local school, club or community group.</description>
-    </item>
-    
-    <item>
-      <title>Broomhill &amp; Thornwood Local Place Plan</title>
-      <link>https://broomhillcc.org.uk/lpp/</link>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://broomhillcc.org.uk/lpp/</guid>
-      <description>The Broomhill &amp;amp; Thornwood Local Place Plan has now been formally accepted by Glasgow City Council.</description>
     </item>
     
   </channel>
