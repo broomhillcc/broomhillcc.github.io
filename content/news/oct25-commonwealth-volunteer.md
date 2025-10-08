@@ -6,6 +6,14 @@ tags: ["Glasgow 2026", "Commonwealth Games", "Volunteering", "Community", "Sport
 author: ["Glasgow 2026"]
 description: "Glasgow 2026 is looking for more than 3,000 volunteers to help bring the Games to life. Applications are open now, with special opportunities for residents in Wards 12 and 13."
 summary: "Be part of the action at the Glasgow 2026 Commonwealth Games! Applications are now open to join over 3,000 volunteers supporting athletes, spectators, and venues across the city."
+cover:
+    image: /CWG-SaleDates-presale.png
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Some Key dates for the CWG Presale"
+    caption: "Some Key dates for the CWG Presale"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
+---
 
 ---
 #### 🙌 Legends Wanted: Be Part of Glasgow 2026! 🙌
