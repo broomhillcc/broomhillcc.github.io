@@ -49,6 +49,15 @@ Although just beyond many residents’ doorsteps, Thornwood Roundabout is a **st
 
 This has been a **collective effort** involving **Love Thornwood**, **Glasgow Eco Trust**, and residents and **Community Councils** across **Thornwood, Whiteinch, Jordanhill, Broomhill, and Scotstoun**. A working group convened via the **Victoria Park Area Partnership** has helped secure funding and push these upgrades up the agenda. Now, it’s over to the wider community to shape the final design.
 
+### 👏 Thanks to our local Councillor
+
+We would like to extend a **huge thank you to Councillor Lana Reid-McConnell**, who has worked tirelessly over the past couple of years to convene partners, secure funding, and help drive these improvements forward through the Victoria Park Area Partnership. Her leadership in pulling together Community Councils, local groups and Council officers has been essential in getting the project to this consultation stage.
+
+You can read more from Cllr. Reid-McConnell on her update page here:
+
+👉 **Thornwood Roundabout & Cycle Network Improvements**  
+<https://open.substack.com/pub/lanareidmcconnell/p/thornwood-roundabout-and-cycle-network?utm_campaign=post&utm_medium=web>
+
 ---
 
 ### 🎥 Watch & learn
