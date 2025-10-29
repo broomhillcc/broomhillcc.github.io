@@ -16,6 +16,6 @@ summary: "The 2025 AGM will be a meeting where the community council will be re-
 
 + [AGM Agenda](/oct25agm.pdf)
 + [2024 AGM Minutes](/oct24agmm.pdf)
-+ Meeting Minutes (Coming Soon!)
++ [Meeting Minutes](/oct25agmm.pdf)
 ---
 
