@@ -24,6 +24,9 @@ We have received the following update from **John Telfer**, Assistant Group Mana
 > Letters are now expected to be issued **by the end of October**.  
 > The Council has issued its **apologies** for this short delay.
 
+#### Update 3/11/25
+
+We have received a further update indicating the letters are due begin being posted by the end of this week, so distribution should be expected by w/c 10th November.
 ---
 
 ### What this means for Broomhill
@@ -40,10 +43,9 @@ The BCC will:
 
 ✅ Promote the Consultation Hub link once live  
 ✅ Share the exhibition date and venue once confirmed  
-✅ Help gather resident feedback to ensure community priorities are reflected  
 
 ---
 
-If you have any questions or would like to provide early comments, please contact us via the **RPZ Working Group** email or through our contact page.
+If you have any questions, please contact us via  our contact page.
 
 We will continue to keep residents updated as soon as further details are released.
