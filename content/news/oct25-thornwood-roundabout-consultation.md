@@ -69,7 +69,7 @@ Here’s a video that shows the new NCN7 Cyclelane on Castlebank Street and the 
 
 ### 📅 Drop-in event: Partick Library
 
-- **When:** **Thursday 15 November**, **3:00–7:00 pm**  
+- **When:** **Thursday 13th November**, **3:00–7:00 pm**  
 - **Where:** **Partick Library**  
 - **What:** Walk-in public consultation with council officers; view plans, ask questions, and give feedback.
 
