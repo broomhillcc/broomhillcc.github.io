@@ -18,7 +18,7 @@ Text: "4th November"
 
 ##### Agenda & Minutes
 + [Agenda](/nov23.pdf)
-+ [Minutes](/nov23.pdf)
++ [Minutes](/nov23m.pdf)
 
 ---
 
