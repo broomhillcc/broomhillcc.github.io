@@ -18,7 +18,7 @@ Text: "12th of November"
 
 ##### Agenda & Minutes
 + [Agenda](/november25.pdf)
-+ Minutes(coming soon!)
++ [Minutes](/november25m.pdf)
 
 ---
 
