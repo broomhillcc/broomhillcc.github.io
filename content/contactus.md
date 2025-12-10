@@ -4,10 +4,12 @@ aliases:
     - /contactus.html
 hidemeta: true
 description: "Get in touch"
+formOpen: false   # ← Toggle this to true to enable the form
 ---
 
 ---
 
+{{ if not .Params.formOpen }}
 **⚠️ Temporary Notice**
 
 We’ve currently paused the online contact form after exceeding our provider’s free monthly quota.  
@@ -16,14 +18,11 @@ Until it reopens, please email us directly at:
 👉 **[broomhillcc01@gmail.com](mailto:broomhillcc01@gmail.com)**
 
 Thank you for your understanding.
+{{ end }}
 
 ---
 
-<!--  
-  === FORM TEMPORARILY DISABLED ===
-  Remove this HTML comment block to re-enable the form.
--->
-
+{{ if .Params.formOpen }}
 {{< rawhtml >}}
 <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
 <form action="https://public.herotofu.com/v1/dad54bd0-80bd-11ee-9341-f71d382974be" method="POST">
@@ -62,5 +61,4 @@ Thank you for your understanding.
   </div>
 </form>
 {{< /rawhtml >}}
-
-<!-- END DISABLED FORM -->
+{{ end }}

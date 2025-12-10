@@ -71,8 +71,8 @@
   "keywords": [
     
   ],
-  "articleBody": " ⚠️ Temporary Notice\nWe’ve currently paused the online contact form after exceeding our provider’s free monthly quota.\nUntil it reopens, please email us directly at:\n👉 broomhillcc01@gmail.com\nThank you for your understanding.\nSend a message ",
-  "wordCount" : "35",
+  "articleBody": " {{ if not .Params.formOpen }} ⚠️ Temporary Notice\nWe’ve currently paused the online contact form after exceeding our provider’s free monthly quota.\nUntil it reopens, please email us directly at:\n👉 broomhillcc01@gmail.com\nThank you for your understanding. {{ end }}\n{{ if .Params.formOpen }} Send a message {{ end }}\n",
+  "wordCount" : "50",
   "inLanguage": "en",
   "datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
@@ -161,16 +161,15 @@
     </div>
   </header> 
   <div class="post-content"><hr>
-<p><strong>⚠️ Temporary Notice</strong></p>
+<p>{{ if not .Params.formOpen }}
+<strong>⚠️ Temporary Notice</strong></p>
 <p>We’ve currently paused the online contact form after exceeding our provider’s free monthly quota.<br>
 Until it reopens, please email us directly at:</p>
 <p>👉 <strong><a href="mailto:broomhillcc01@gmail.com">broomhillcc01@gmail.com</a></strong></p>
-<p>Thank you for your understanding.</p>
+<p>Thank you for your understanding.
+{{ end }}</p>
 <hr>
-<!--  
-  === FORM TEMPORARILY DISABLED ===
-  Remove this HTML comment block to re-enable the form.
--->
+<p>{{ if .Params.formOpen }}
 
 <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
 <form action="https://public.herotofu.com/v1/dad54bd0-80bd-11ee-9341-f71d382974be" method="POST">
@@ -209,7 +208,7 @@ Until it reopens, please email us directly at:</p>
   </div>
 </form>
 
-<!-- END DISABLED FORM -->
+{{ end }}</p>
 
   </div>
 
