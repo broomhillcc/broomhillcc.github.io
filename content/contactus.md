@@ -6,7 +6,23 @@ hidemeta: true
 description: "Get in touch"
 ---
 
---- 
+---
+
+**⚠️ Temporary Notice**
+
+We’ve currently paused the online contact form after exceeding our provider’s free monthly quota.  
+Until it reopens, please email us directly at:
+
+👉 **[broomhillcc01@gmail.com](mailto:broomhillcc01@gmail.com)**
+
+Thank you for your understanding.
+
+---
+
+<!--  
+  === FORM TEMPORARILY DISABLED ===
+  Remove this HTML comment block to re-enable the form.
+-->
 
 {{< rawhtml >}}
 <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
@@ -46,3 +62,5 @@ description: "Get in touch"
   </div>
 </form>
 {{< /rawhtml >}}
+
+<!-- END DISABLED FORM -->
