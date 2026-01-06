@@ -9,4 +9,4 @@ formOpen: false   # ← Toggle this to true to enable the form
 
 ---
 
-{{< contactform formOpen="false" >}}
+{{< contactform formOpen="true" >}}
