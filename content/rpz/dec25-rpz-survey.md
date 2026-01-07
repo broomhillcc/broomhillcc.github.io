@@ -5,7 +5,7 @@ url: /dec25-rpz-community-engagement-update/
 tags: ["Parking", "RPZ", "Consultation", "Community Engagement", "Operational Delivery"]
 author: ["Broomhill Community Council"]
 description: "Here is the survey text for the RPZ consultation"
-summary: ""Here is the survey text for the RPZ consultation"
+summary: "Here is the survey text for the RPZ consultation"
 
 ---
 
