@@ -45,7 +45,7 @@ Note that any communication with us is subject to our [Privacy Policy](/privacy.
 | Barbara McTavish | Chair |
 | Lorna McWilliams | Vice-Chair |
 |  | Treasurer |
-| Vacant | Secretary |
+| Isobel Yates | Interim Secretary |
 | Vacant | Broomhill Primary School Parent Council Rep |
 | Vacant | Minutes Secretary |
 | Abigail Harding  | Victoria Park Community Trust Representative |
