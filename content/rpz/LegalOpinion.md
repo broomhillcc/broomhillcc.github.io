@@ -28,7 +28,10 @@ We must be clear that there is no guarantee that this will prevent, or limit, wh
 
 To assist this process, BCC has submitted a number of requests for information under the Freedom of Information Act.  If the legal opinion option goes ahead, this information would be provided to the Advocate for review.  If you have also submitted any FOI requests, and you are comfortable in doing so, please share any FOI responses with us.
 
-If you have individual concerns on the proposals, we recommend that you consider taking your own independent legal advice. 
+All monies received will be directed to legal advice regarding the RPZ.
+
+If you have individual concerns on the proposals, we recommend that you consider taking your own independent legal advice.
+
 ---
 
 If you have any questions, please contact us at BroomhillCC01@gmail.com.
