@@ -1,7 +1,7 @@
 ---
 title: "Pursuing a Legal Opinion on the RPZ"
 date: 2026-01-22
-url: /dec25-rpz-community-engagement-update/
+url: /rpz-Legal-Opinion/
 tags: ["Parking", "RPZ", "Consultation", "Community Engagement", "Operational Delivery", "Legal"]
 author: ["Broomhill Community Council"]
 description: "Legal Opinion on the RPZ"
