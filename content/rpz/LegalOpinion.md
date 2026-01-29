@@ -34,16 +34,21 @@ If you have individual concerns on the proposals, we recommend that you consider
 
 -----------
 Frequently Asked Questions:
+
 Will you be joining with other Community Councils in Glasgow?
+
 We are in communication with our neighbouring CC's as our communities do co-exist. This legal opinion is for the Broomhill and Thornwood TRO and the particular issues we face. 
 
 Can other areas share the cost? 
+
 While we can accept pledges from anywhere, we must be clear that it is fund a specific legal query relating to the Broomhill and Thornwood RPZ and the particular issues we face. 
 
 What if you receive more pledges than required? 
+
 After funding the Legal Opinion, there are additional areas we have considered seeking legal advice. The first of these would be around GCC's Equalty Impact Assessment that is due to be done on this TRO. We would be seeking advice on indirect discrimination if the EQIA is not done to a high standard.
 
 BCC is a voluntary group of residents undertaking this additional work. We do appreciate there are many ideas being suggested for BCC to undertake, but these do have to be matched with the available voluntary resources to deliver them. We are encouraged by the support and help offered by residents and neighbouring CC's. If any resident wishes to find out more how they can volunteer as part of BCC, advocating for our community, please do get in touch BroomhillCC01gmail.com or speak to a member of BCC at our next meeting which will be on 11th February.
+
 ---
 
 If you have any further questions, please contact us at BroomhillCC01@gmail.com.
