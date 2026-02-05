@@ -14,7 +14,7 @@ summary: "Your chance to join BCC on 11th March 2026."
 On the 11th March we will be holding an Interim Election to fill 5 vacancies on BCC. As a Community Council we act as a voice for Broomhill to and from Glasgow City Council and other local bodies. 
 We are wholly voluntary group of Broomhill residents who give time to, and have a genuine interest in, the wellbeing of our community. 
 
-Nomination Forms can be	[Downloaded here](/agenda-feb25.pdf)
+Nomination Forms can be	[Downloaded here](/Broomhill Community Council - Nomination Form 02.2026.docx)
 
 Completed Nomination Forms should be returned by the closing date of 2nd March 2026 to:
 
