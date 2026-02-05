@@ -15,3 +15,4 @@ The aim is to help develop Flood Risk Management Plans that support resilient, w
 The consultation is part of a two-stage process. A second, more detailed consultation will begin from December 2026, when further information on flood risk, objectives and proposed actions will be published in partnership with local authorities. The final Flood Risk Management Plans are due to be published in December 2027.
  
 People can find out more and take part in the consultation Flood Risk Management Phase 1 Consultation. 
+#Glasgow
