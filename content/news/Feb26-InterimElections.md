@@ -16,7 +16,7 @@ We are wholly voluntary group of Broomhill residents who give time to, and have 
 
 Nomination Forms can be	[Downloaded here](/Broomhill Community Council - Nomination Form 02.2026.docx)
 
-Completed Nomination Forms should be returned by the closing date of 2nd March 2026 to:
+Completed Nomination Forms should be returned by the closing date of 2nd March 2026 to: .
 
 Email: communitycouncils@glasgow.gov.uk
 
