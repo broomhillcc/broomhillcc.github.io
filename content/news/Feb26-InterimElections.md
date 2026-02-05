@@ -1,6 +1,6 @@
 
 ---
-title: "Interested in joining Broomhill Community Council?"
+title: "Interested in joining BCC?"
 date: 2026-02-05
 url: /Feb26-InterimElections.md/
 tags: ["Glasgow", "Community", "Broomhill"]
