@@ -1,12 +1,12 @@
 
 ---
-title: "Interested in joining BCC?"
+title: "Interested in joining Broomhill Community Council?"
 date: 2026-02-05
 url: /Feb26-InterimElections.md/
 tags: ["Glasgow", "Community", "Broomhill"]
 author: ["BCC"]
 description: "Broomhill Community Council will be holding an Interim Election on 11th March 2026 for anyone wishing to join."
-summary: "Chance to join BCC on 11th March."
+summary: "Your chance to join BCC on 11th March 2026."
 
 ---
 #### Interim Election - 11th March - Your chance to join BCC
