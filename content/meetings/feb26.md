@@ -17,7 +17,7 @@ Text: "11th February"
 ---
 
 ##### Agenda & Minutes - Coming Soon
-+ [Agenda](/feb26.pdf)
++ [Agenda](/static/feb26.pdf)
 + [Minutes](/feb26m.pdf)
 
 ---
