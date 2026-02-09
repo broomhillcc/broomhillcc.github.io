@@ -1,12 +1,13 @@
 ---
 title: "Inform future flood risk management strategies"
 date: 2026-02-04
-url: /jan26-SEPAConsult2.md/
+url: /jan26-SEPAConsult2/
 tags: ["Glasgow", "Water", "SEPA", "Flood"]
 author: ["SEPA"]
 description: "People across Scotland are being asked to help inform future plans by sharing their experiences of flooding."
 summary: "People across Scotland are being invited to share their experiences of local flooding issues to help inform how flood risk is managed in their communities, as work continues on Scotland’s next Flood Risk Management Plans."
 ---
+
 The Scottish Environment Protection Agency’s (SEPA) public consultation, launched on Wednesday 21st January, focuses on finding out about local flooding concerns in areas identified as having the highest flood risk. The feedback will help inform Flood Risk Management Plans (FRMP) covering 2028 to 2034, which will set out how Scotland reduces the impacts of flooding and builds resilience for the future.
  
 Flooding is already affecting communities across Scotland, and climate change is increasing the likelihood of heavier rainfall and more frequent storms. SEPA’s most recent National Flood Risk Assessment (2025) shows that around 400,000 homes, businesses and vital services, around one in eight across Scotland, are currently in areas at medium risk of flooding. This number is projected to rise to around 634,000 by 2100 as the climate continues to change.

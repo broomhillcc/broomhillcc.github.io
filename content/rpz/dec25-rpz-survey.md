@@ -1,5 +1,5 @@
 ---
-title: "RPZ Update: Community Engagement and Timeline"
+title: "RPZ Update: Community Engagement and Survey"
 date: 2025-12-30
 url: /dec25-rpz-community-engagement-update/
 tags: ["Parking", "RPZ", "Consultation", "Community Engagement", "Operational Delivery"]
