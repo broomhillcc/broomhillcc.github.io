@@ -10,3 +10,4 @@ summary: "Community Councils meet with Parking Services"
 ---
 In February Broomhill and Thornwood Community Councils met with GCC Parking Services to discuss the proposed RPZ. 
 Please find our report of the meeting available for download below.
++ [Download](/19-02-2026_RPZ_MeetingReport_ParkingServices_TCC-BCC.pdf)
