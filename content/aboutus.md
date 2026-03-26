@@ -48,7 +48,7 @@ Note that any communication with us is subject to our [Privacy Policy](/privacy.
 | Isobel Yates | Interim Secretary |
 | |Victoria Park Area Partnership Alternate Rep |
 | Vacant | Broomhill Primary School Parent Council Rep |
-| Vacant | Minutes Secretary |
+| Norma Paterson | Minutes Secretary |
 | Abigail Harding  | Victoria Park Community Trust Representative |
 | Elaine Hindle | Victoria Park Area Partnership Representative | 
 | | Friends of Naseby Park Representative |
