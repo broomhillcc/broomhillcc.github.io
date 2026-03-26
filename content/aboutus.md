@@ -46,6 +46,7 @@ Note that any communication with us is subject to our [Privacy Policy](/privacy.
 | Lorna McWilliams | Vice-Chair |
 |  | Treasurer |
 | Isobel Yates | Interim Secretary |
+| |Victoria Park Area Partnership Alternate Rep |
 | Vacant | Broomhill Primary School Parent Council Rep |
 | Vacant | Minutes Secretary |
 | Abigail Harding  | Victoria Park Community Trust Representative |
@@ -54,5 +55,7 @@ Note that any communication with us is subject to our [Privacy Policy](/privacy.
 | Isobel Yates | Victoria Park Area Partnership Alternate Rep |
 | Morag McKerrell | Ordinary Member |
 | Roy Hamdy | Ordinary Member |
+| Maire McCann | Ordinary Member |
+| Andrew Gill | Ordinary Member |
 | David Rennie | Associate Member|
 
