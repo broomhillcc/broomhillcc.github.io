@@ -13,6 +13,6 @@ editPost:
 ---
 
 ##### Agenda & Minutes
-+ [Agenda -coming soon]()
++ [Agenda]()
 + [Minutes - coming soon]()
 ---
