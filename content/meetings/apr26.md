@@ -1,5 +1,5 @@
 ---
-title: "April Broomhill Community Council meeting" 
+title: "April 2026 Broomhill Community Council meeting" 
 date: 2026-04-08
 url: /april26/
 tags: ["Monthly meeting"]
@@ -13,6 +13,6 @@ editPost:
 ---
 
 ##### Agenda & Minutes
-+ [Agenda](/apr23.pdf)
++ [Agenda](/apr26.pdf)
 + [Minutes](/apr23m.pdf)
 ---
