@@ -13,6 +13,6 @@ editPost:
 ---
 
 ##### Agenda & Minutes
-+ [Agenda](/apr26.pdf)
++ [Agenda](/may26.pdf)
 + [Minutes](/apr26m.pdf)
 ---
