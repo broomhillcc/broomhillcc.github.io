@@ -18,7 +18,7 @@ Text: "13th of May"
 
 ##### Agenda & Minutes
 + [Agenda](/may26.pdf)
-+ [Minutes](/may25m.pdf)
++ [Minutes](/may26m.pdf)
 
 ---
 
