@@ -1,6 +1,6 @@
 ---
 title: "September 2026 Broomhill Community Council meeting" 
-date: 2026-06-10
+date: 2026-09-10
 url: /june26/
 
 tags: ["Monthly meeting"]
