@@ -5,5 +5,5 @@ We have a public open forum from 7.30pm- 8pm. We do not meet in January, July an
 August.
 
 Our meeting dates for 2026 will be
-9th September, 14th October (AGM), 11th November and 9th December "
+7th October (AGM), 11th November and 9th December "
 ---
