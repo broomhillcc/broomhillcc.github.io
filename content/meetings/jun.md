@@ -17,7 +17,7 @@ Text: "9th of September"
 ---
 
 ##### Agenda & Minutes
-+ [Agenda](/june25.pdf)
-+ [Minutes](/june25m.pdf)
++ [Agenda](/sep26.pdf)
++ [Minutes] coming soon
 
 ---
