@@ -17,5 +17,5 @@ summary: "The 2026 AGM will be a meeting where the community council will be re-
 + [AGM Agenda](/oct25agm.pdf)
 + [2025 AGM Minutes](/oct25agmm.pdf)
 + [Meeting Minutes] coming soon
-+ [Chair's Report] coming soon
++ [Chair's Report](/BCC_ChairReportOct26.pdf)
 ---
